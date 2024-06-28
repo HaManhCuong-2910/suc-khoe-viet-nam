@@ -1,6 +1,6 @@
 <template>
   <header-default-layout />
-  <main>
+  <main class="main">
     <slot> </slot>
   </main>
 
@@ -9,4 +9,15 @@
 
 <script setup lang="ts"></script>
 
-<style lang="scss"></style>
+<style lang="scss">
+@import "@/assets/scss/responsive.scss";
+.main {
+  min-height: calc(100vh - 52.8px - 76px);
+}
+
+@include mediaMobileTo640 {
+  .main {
+    min-height: calc(100vh - 51.68px - 76px);
+  }
+}
+</style>

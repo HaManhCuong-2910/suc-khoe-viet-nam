@@ -17,6 +17,14 @@ export default defineNuxtConfig({
           type: "image/png",
           href: "/images/72x72.png",
         },
+        {
+          rel: "stylesheet",
+          href: "https://fonts.cdnfonts.com/css/arial-2",
+        },
+        // {
+        //   rel: "stylesheet",
+        //   href: "https://fonts.cdnfonts.com/css/merriweather",
+        // },
       ],
     },
   },

@@ -1,30 +1,88 @@
 export const dataPage = [
   {
-    title: "Chương 1",
-    short_description: "Kiếp người xin nước",
-    image:
-      "https://i-vnexpress.vnecdn.net/2019/07/04/4-1-2817-1547460128-2937-15587-1752-2774-1562219955.jpg",
-    content: "Trang 1 trétdsadasda",
-  },
-  {
-    title: "Chương 2",
-    short_description: "Kiếp người xin nước",
-    image:
-      "https://i-vnexpress.vnecdn.net/2019/07/04/3-1-5437-1547460127-2805-15587-2906-8276-1562219944.jpg",
-    content: "Trang 2 trétdsadasda",
+    title: "",
+    short_description: "Lời mở đầu",
+    image: "/images/LỜI MỞ ĐẦU.png",
+    content: "",
   },
   {
     title: "Chương 3",
-    short_description: "Kiếp người xin nước",
-    image:
-      "https://i-vnexpress.vnecdn.net/2019/07/04/2-1-4189-1547460126-7872-15587-5252-4246-1562219938.jpg",
-    content: "Trang 3 trétdsadasda",
-  },
-  {
-    title: "Chương 4",
-    short_description: "Kiếp người xin nước",
-    image:
-      "https://i-vnexpress.vnecdn.net/2019/07/04/water-9959-1547525332-4849-155-1292-8870-1562219936.jpg",
-    content: "Trang 4 trétdsadasda",
+    short_description: "Những con số biết nói",
+    image: "/images/LỜI MỞ ĐẦU.png",
+    content: `<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="-wTypZybq2E9">
+    <picture>
+        <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/189.webp 189w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/378.webp 378w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/567.webp 567w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/756.webp 756w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/945.webp 945w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1134.webp 1134w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1323.webp 1323w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1512.webp 1512w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1701.webp 1701w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1890.webp 1890w" type="image/webp" sizes="(max-width: 1890px) 100vw, 1890px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1890.png" width="1890" height="755">
+    </picture>
+</figure>
+<p class="max-w-710"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nghệ An là tỉnh có diện tích lớn nhất cả nước với 16.486,49 km2, cùng bờ biển dài 82 km và nhiều kênh, ao, hồ trên các địa bàn dân cư. Mạng lưới sông ngòi tỉnh dày đặc cùng rất nhiều khe suối lớn đan xen giữa các dãy núi, 80% địa hình tự nhiên của tỉnh có độ dốc lớn hơn 8 độ, làm cho hệ thống sông ngòi nội tỉnh mang đặc điểm ngắn và dốc. Vì vậy, tình trạng lũ lụt thường xảy ra ở đây, nhất là trong thời gian học sinh nghỉ hè từ tháng 6 đến tháng 8, dẫn đến nguy cơ xảy ra đuối nước rất cao đối với trẻ em, đặc biệt là trẻ em thuộc khu vực nông thôn và vùng sâu, vùng xa.</span></span></p>
+<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="DkdZRdeI9Dt1">
+    <picture>
+        <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/128.webp 128w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/256.webp 256w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/384.webp 384w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/512.webp 512w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/640.webp 640w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/768.webp 768w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/896.webp 896w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/1024.webp 1024w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/1152.webp 1152w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/1280.webp 1280w" type="image/webp" sizes="(max-width: 1280px) 100vw, 1280px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/DkdZRdeI9Dt1/images/1280.jpeg" alt="ảnh sông suối" width="1280" height="960">
+    </picture>
+    <figcaption>
+        <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">“Khe suối tại xã Nhôn Mai, huyện Tương Dương, tỉnh Nghệ An. Nguồn ảnh: NVCC"</span></i></span>
+    </figcaption>
+</figure>
+<p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Theo số liệu thống kê, toàn tỉnh Nghệ An hiện có 920.436 trẻ em dưới 16 tuổi (chiếm tỷ lệ 25,9% tổng dân số), trong đó có 425.340 trẻ em dưới 6 tuổi (chiếm tỷ lệ 11,9% dân số), 13.027 trẻ em có hoàn cảnh đặc biệt và 51.943 trẻ em sống trong các hộ gia đình nghèo… Đây là một tỷ lệ khá lớn so với mặt bằng chung của cả nước, ảnh hưởng đáng kể đến công tác bảo vệ, chăm sóc và giáo dục trẻ em của tỉnh trong thời gian qua.</span></span>
+</p>
+<p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">&nbsp;</p>
+<p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Theo bà Lê Thị Nguyệt - Trưởng phòng Trẻ em và Bình đẳng giới (Sở Lao động - Thương binh và Xã hội tỉnh Nghệ An), trong giai đoạn từ năm 2021 đến tháng 6/2024, trên địa bàn tỉnh có 160 trẻ em tử vong do đuối nước. Đặc biệt, trong 6 tháng đầu năm nay, toàn tỉnh đã xảy ra 14 vụ đuối nước gây tử vong cho 16 trẻ em, trong đó có 4 em từ 2-6 tuổi, 12 em từ 11-16 tuổi. Các vụ việc tập trung chủ yếu tại các huyện Thanh Chương, Yên Thành, Anh Sơn, Tân Kỳ, Nghi Lộc, Đô Lương, thị xã Thái Hòa, thị xã Hoàng Mai… Bình quân mỗi năm tại Nghệ An xảy ra 35 vụ đuối nước trẻ em khiến trên 50 trẻ bị tử vong, trong đó nhóm 5-16 tuổi chiếm nhiều nhất. Qua thống kê, từ các vụ đuối nước, tỷ lệ đuối nước tại ao nhà, hồ nước gần nhà chiếm gần 40%. Tai nạn đuối nước xảy ra ở khu vực nông thôn cao gấp gần 4 lần so với khu vực thành thị.</span></span>
+</p>
+<p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">&nbsp;</p>
+<p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Dù đã có nhiều tiến bộ trong công tác Phòng chống đuối nước cho trẻ em, song tỉnh Nghệ An vẫn phải đối mặt với nhiều thách thức trong khi số lượng trẻ em bị đuối nước vẫn còn cao (44 trẻ tử vong do đuối nước, chiếm 74.5% tỷ lệ trẻ em tử vong do tai nạn thương tích của tỉnh năm 2023) và tỷ lệ giảm trẻ em bị chết đuối hàng năm chưa bền vững, nhất là vào những dịp thời tiết nắng nóng.</span></span>
+</p>
+<p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">&nbsp;</p>
+<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="7u0rTd-9mvnC">
+    <picture>
+        <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/189.webp 189w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/378.webp 378w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/567.webp 567w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/756.webp 756w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/945.webp 945w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/1134.webp 1134w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/1323.webp 1323w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/1512.webp 1512w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/1701.webp 1701w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/1890.webp 1890w" type="image/webp" sizes="(max-width: 1890px) 100vw, 1890px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/7u0rTd-9mvnC/images/1890.png" width="1890" height="755">
+    </picture>
+</figure>
+<p class="max-w-710">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Cũng theo bà Lê Thị Nguyệt, có nhiều nguyên nhân dẫn đến tình trạng đuối nước của trẻ em, trong đó nguyên nhân khách quan là điều kiện địa hình với hệ thống 13 con sông lớn nhỏ, nhiều kênh, ao, hồ, đê, đập ngay tại các địa bàn dân cư, tiềm ẩn nguy cơ cao dẫn đến tai nạn đuối nước. Mặt khác, khí hậu, thời tiết Nghệ An khắc nghiệt, mưa lũ, nắng nóng thất thường. Đặc biệt, tại khu vực miền núi đã xảy ra nhiều vụ đuối nước thương tâm khi mưa lũ bất ngờ ập đến.</span></span>
+</p>
+<p class="max-w-710">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Tuy nhiên, nguyên nhân chính phải kể đến là các nguyên nhân chủ quan, gắn liền với trách nhiệm của gia đình, xã hội. Trước hết, là do cha mẹ, những người trực tiếp chăm sóc trẻ đã chủ quan, lơ là trong việc theo dõi, giám sát, quản lý trẻ trong thời gian các em được nghỉ học, ở nhà. Nhiều gia đình sống gần sông, suối, ao, hồ, khe, đê, đập… ở vùng nông thôn, vùng miền núi thường cho trẻ em tắm, vui chơi, đi làm cùng hoặc giúp bố mẹ đi mò cua, bắt cá, ốc, hến...; hoặc gia đình vẫn thường để trẻ em ở nhà tự đi chơi, đi bơi, cha mẹ không để ý nên khi xảy ra tai nạn đuối nước không có sự giúp đỡ, hỗ trợ, can thiệp kịp thời của người lớn. Đặc biệt, nhiều vụ việc thương tâm đã xảy ra ngay trong chính khuôn viên của gia đình, tại các khu vực có chum vại, bể nước, giếng nước... không có nắp đậy an toàn. Nhiều bậc phụ huynh vẫn coi nhẹ việc cung cấp cho con các kỹ năng cần thiết như học bơi, học kỹ năng thoát hiểm trong môi trường nước.</span></span>
+</p>
+<div class="max-w-710">
+    <figure class="image image_resized image-style-side" style="width:50.5%;" data-ckbox-resource-id="xEo2vkTF9eDH">
+        <picture>
+            <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/96.webp 96w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/192.webp 192w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/288.webp 288w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/384.webp 384w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/480.webp 480w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/576.webp 576w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/672.webp 672w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/768.webp 768w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/864.webp 864w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/951.webp 951w" type="image/webp" sizes="(max-width: 951px) 100vw, 951px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/xEo2vkTF9eDH/images/951.png" width="951" height="1600">
+        </picture>
+    </figure>
+    <p>
+        <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nguyên nhân thứ hai là còn nhiều trẻ em không biết bơi và chưa được rèn luyện kỹ năng bơi an toàn trong trong môi trường nước; hoặc có trường hợp trẻ biết bơi, nhưng chưa có đủ kiến thức, kỹ năng cứu đuối nên đã bị đuối theo khi cứu bạn. Còn nhiều trẻ em đang ở độ tuổi nhỏ, chưa nhận thức được tính nguy hiểm của tai nạn đuối nước nhưng thiếu sự quan tâm và hướng dẫn đúng cách để tránh bị đuối nước. Công tác dạy bơi cho trẻ em ở cơ sở tuy đã được quan tâm nhưng việc dạy bơi cho trẻ em chưa được thường xuyên, trẻ em chủ yếu là học bơi ở các bể bơi dịch vụ phải đóng kinh phí tương đối cao, quãng đường di chuyển khó khăn do vậy việc trẻ em được đi học bơi còn hạn chế; hệ thống các giải, hội thi bơi được tổ chức mới chủ yếu ở cấp tỉnh còn cấp huyện và cấp xã đang còn ít và chưa thường xuyên.</span></span>
+    </p>
+</div>
+<p class="max-w-710">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nguyên nhân thứ ba là một số trường học chưa đi sâu đi sát trong công tác tuyên truyền nâng cao nhận thức về phòng chống đuối nước cho các bậc phụ huynh và chính các em học sinh, nhất là ở vùng nông thôn, vùng sâu, vùng xa; chưa đa dạng hoá các hình thức tuyên truyền phù hợp với từng đối tượng cần truyền thông. Hiện nay, lực lượng giáo viên, hướng dẫn viên đảm bảo công tác dạy bơi trên địa bàn tỉnh đang còn hạn chế về số lượng và chất lượng. Theo thống kê của Sở Lao động - Thương binh và Xã hội tỉnh Nghệ An, số giáo viên đáp ứng yêu cầu dạy bơi là: 1.193 người (trong đó có 522 giáo viên tiểu học, 398 giáo viên THCS và 273 cán bộ, cộng tác viên thể dục thể thao cơ sở), so với số lượng trẻ em trong độ tuổi 6 đến 15 là 511.498 em thì số giáo viên, hướng dẫn viên đáp ứng dạy bơi cho trẻ em chỉ đạt tỷ lệ 0,23 người/100 trẻ em.</span></span>
+</p>
+<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="J5WoVt4IsPBP">
+    <picture>
+        <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/128.webp 128w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/256.webp 256w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/384.webp 384w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/512.webp 512w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/640.webp 640w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/768.webp 768w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/896.webp 896w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/1024.webp 1024w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/1152.webp 1152w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/1280.webp 1280w" type="image/webp" sizes="(max-width: 1280px) 100vw, 1280px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/J5WoVt4IsPBP/images/1280.jpeg" width="1280" height="963">
+    </picture>
+    <figcaption>
+        <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">“Buổi tuyên truyền về phòng, chống đuối nước tại một trường tiểu học tỉnh Nghệ An. Nguồn ảnh: NVCC"</span></i></span>
+    </figcaption>
+</figure>
+<p class="max-w-710">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nguyên nhân thứ tư là vẫn còn một số cấp ủy, chính quyền địa phương chưa thực sự ưu tiên, quan tâm sâu sắc công tác Phòng chống đuối nước cho trẻ em, nhất là trong việc xây dựng môi trường an toàn, loại bỏ nguy cơ gây đuối nước trẻ em như chỉ đạo, hướng dẫn rà soát các nguy cơ gây đuối nước cho trẻ tại gia đình, trường học, cộng đồng; triển khai các hoạt động tạo môi trường sống an toàn, ngăn không cho trẻ tiếp cận với khu vực nước nguy hiểm, cắm biển báo tại nơi nước sâu, biển, sông, suối, ao, đập… Việc triển khai công tác phổ cập bơi cũng chưa được thực hiện đồng loạt toàn tỉnh, một số địa phương thực hiện tốt thì tỷ lệ trẻ em biết bơi cao và ngược lại một số địa phương tỷ lệ trẻ em biết bơi rất thấp. Việc phân công nhiệm vụ thực hiện phòng, chống tai nạn thương tích đuối nước giữa các đơn vị còn chồng chéo.</span></span>
+</p>
+<p class="max-w-710">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nguyên nhân thứ năm là thiếu sự phối hợp chặt chẽ giữa các ban, ngành, tổ chức chính trị - xã hội, giữa gia đình, nhà trường ở một số địa phương. Công tác thanh tra, kiểm tra, giám sát đối với công tác phòng chống đuối nước chưa được quan tâm thực hiện thường xuyên. Các Ban chỉ đạo, hội đoàn thể và các ban cán sự khối, thôn, bản truyền thông, giáo dục nâng cao nhận thức, nhắc nhở trẻ em về nguy cơ đuối nước chưa thật sự hiệu quả, chưa đến được gia đình có trẻ em, và nhất là gia đình có trẻ em thuộc hộ nghèo, cận nghèo, có hoàn cảnh khó khăn, đặc biệt trong thời gian các em nghỉ hè và các đợt mưa lũ.</span></span>
+</p>
+<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="YTbhdDtyLpNO">
+    <picture>
+        <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/128.webp 128w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/256.webp 256w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/384.webp 384w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/512.webp 512w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/640.webp 640w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/768.webp 768w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/896.webp 896w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/1024.webp 1024w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/1152.webp 1152w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/1280.webp 1280w" type="image/webp" sizes="(max-width: 1280px) 100vw, 1280px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/YTbhdDtyLpNO/images/1280.jpeg" width="1280" height="963">
+    </picture>
+    <figcaption><strong>
+            <meta charset="utf-8">
+        </strong><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">“Hình ảnh một lớp dạy bơi tại địa bàn huyện Diễn Châu, tỉnh Nghệ An. Nguồn ảnh: NVCC”</span></i></span></figcaption>
+</figure>
+<p class="max-w-710">
+    <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nguyên nhân thứ sáu là kinh phí đầu tư các điểm vui chơi, giải trí cho trẻ em nói chung và hệ thống bể bơi để phục vụ công tác dạy bơi, học bơi nói riêng chưa đáp ứng được nhu cầu cấp thiết hiện nay; việc xã hội hóa, vận hành bể bơi còn nhiều vướng mắc. Theo báo cáo của các huyện, thành, thị, hiện nay trên địa bàn toàn tỉnh có 216 bể bơi, trong đó: có 111 bể bơi cố định, 105 bể bơi di động. Ngoài ra có một số bể bơi hỗn hợp, bể vầy, lồng tắm, ao, hồ do nhân dân tự tạo để dạy bơi cho trẻ em, tuy nhiên các bể bơi hỗn hợp này không an toàn và không đáp ứng yêu cầu theo quy định. Hầu hết các bể bơi được xây dựng do các cá nhân và doanh nghiệp với mục đích đầu tư kinh doanh ở các các vùng trung tâm có điều kiện kinh tế cao như Thành phố Vinh, Thị xã Cửa Lò, Diễn Châu… thì đối với trẻ em vùng nông thôn, trẻ em nghèo, việc học bơi rất hạn chế. Bên cạnh việc đầu tư xây dựng bể bơi, cách vận hành và đảm bảo an toàn khi sử dụng bể bơi vẫn chưa được tiếp cận một cách toàn diện.</span></span>
+</p>`,
   },
 ];

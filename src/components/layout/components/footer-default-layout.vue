@@ -16,10 +16,10 @@
             alt="icon"
           />
           <div class="content">
-            <h3 class="text-sm font-medium">
+            <h3 class="text-xl font-bold font-merriweather">
               {{ getDataFromPage(page - 1)?.title }}
             </h3>
-            <p class="text-sm">
+            <p class="text-base">
               {{ getDataFromPage(page - 1)?.short_description }}
             </p>
           </div>
@@ -33,10 +33,10 @@
           @click="homeStore.onChangePage(page + 1)"
         >
           <div class="content">
-            <h3 class="text-sm font-medium">
+            <h3 class="text-xl font-bold font-merriweather">
               {{ getDataFromPage(page + 1)?.title }}
             </h3>
-            <p class="text-sm">
+            <p class="text-base">
               {{ getDataFromPage(page + 1)?.short_description }}
             </p>
           </div>

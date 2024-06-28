@@ -1,9 +1,13 @@
 * {
   box-sizing: border-box;
-  font-family: Roboto, sans-serif;
+  font-family: "Arial", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   line-height: 24px;
+}
+
+.font-merriweather {
+  font-family: "Merriweather", serif;
 }
 
 @tailwind base;
