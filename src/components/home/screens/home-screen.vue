@@ -35,12 +35,35 @@ const data = computed(() => {
     margin-left: auto;
     margin-right: auto;
   }
+  ul {
+    li {
+      span {
+        font-size: 20px;
+        letter-spacing: 0.01em;
+        line-height: 170%;
+
+        strong {
+          font-size: 20px;
+          font-weight: 800;
+          font-family: "Roboto", sans-serif;
+          font-weight: bold;
+        }
+      }
+    }
+  }
   p {
     margin-bottom: 1rem;
     span {
       font-size: 20px;
       letter-spacing: 0.01em;
       line-height: 170%;
+
+      strong {
+        font-size: 20px;
+        font-weight: 800;
+        font-family: "Roboto", sans-serif;
+        font-weight: bold;
+      }
     }
   }
   .image {
@@ -74,11 +97,30 @@ const data = computed(() => {
     p {
       span {
         font-size: 18px;
+        strong {
+          font-size: 17px;
+        }
+      }
+    }
+
+    ul {
+      li {
+        span {
+          font-size: 18px;
+          strong {
+            font-size: 17px;
+          }
+        }
       }
     }
     .image {
       &.image_resized {
         width: 100% !important;
+
+        figcaption {
+          padding-left: 16px;
+          padding-right: 16px;
+        }
       }
     }
   }

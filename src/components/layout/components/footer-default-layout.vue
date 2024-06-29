@@ -1,7 +1,7 @@
 <template>
   <footer class="py-3 bg-[#e5e5e5]">
     <div
-      class="container mx-auto flex justify-between"
+      class="container mx-auto grid grid-cols-2 gap-6"
       v-if="dataPage.length > 1"
     >
       <div>

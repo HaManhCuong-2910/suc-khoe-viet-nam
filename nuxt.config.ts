@@ -19,7 +19,7 @@ export default defineNuxtConfig({
         },
         {
           rel: "stylesheet",
-          href: "https://fonts.cdnfonts.com/css/arial-2",
+          href: "https://fonts.cdnfonts.com/css/arial-2?styles=98401",
         },
         // {
         //   rel: "stylesheet",
