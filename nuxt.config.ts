@@ -28,27 +28,27 @@ export default defineNuxtConfig({
         {
           rel: "preload",
           as: "image",
-          href: "/images/LỜI MỞ ĐẦU.png",
+          href: "/images/LỜI MỞ ĐẦU.png",
         },
         {
           rel: "preload",
           as: "image",
-          href: "/images/COVER CHƯƠNG 1.png",
+          href: "/images/COVER CHƯƠNG 1.png",
         },
         {
           rel: "preload",
           as: "image",
-          href: "/images/COVER CHƯƠNG 2.png",
+          href: "/images/COVER CHƯƠNG 2.png",
         },
         {
           rel: "preload",
           as: "image",
-          href: "/images/CHƯƠNG 3.png",
+          href: "/images/CHƯƠNG 3.png",
         },
         {
           rel: "preload",
           as: "image",
-          href: "/images/CHƯƠNG 4.png",
+          href: "/images/CHƯƠNG 4.png",
         },
       ],
       script: [

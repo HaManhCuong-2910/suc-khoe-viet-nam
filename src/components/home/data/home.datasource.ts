@@ -2,7 +2,7 @@ export const dataPage = [
   {
     title: "",
     short_description: "Lời mở đầu",
-    image: "/images/LỜI MỞ ĐẦU.png",
+    image: "/images/LỜI MỞ ĐẦU.png",
     content: `<p class="max-w-710">
     <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Thực trạng đuối nước ở trẻ luôn là vấn đề thương tâm và nhức nhối với toàn xã hội mỗi khi nhắc về. Theo thống kê của Bộ Lao Động - Thương binh và Xã hội, trung bình hằng năm, gần 2.000 trẻ em ở nước ta tử vong do đuối nước. Vấn đề này càng báo động hơn mỗi khi mùa hè đến, đồng nghĩa với việc số lượng trẻ em tử vong tại các ao hồ, sông suối thường có xu hướng tăng cao so với các thời điểm khác trong năm.</span></span>
 </p>
@@ -22,7 +22,7 @@ export const dataPage = [
   {
     title: "Chương 1",
     short_description: "Nỗi đau còn mãi",
-    image: "/images/COVER CHƯƠNG 1.png",
+    image: "/images/COVER CHƯƠNG 1.png",
     content: `<p class="max-w-710">
     <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Có một căn nhà cấp 4 nằm e ấp gần bến đò Yên Quang, xã Diễn Ngọc, huyện Diễn Châu. Trong chính ngôi nhà này, 4 năm trước từng tràn ngập tiếng cười chan hòa yêu thương của gia đình nhỏ. Giờ đây, bước chân vào căn nhà ấy, tiếng nô đùa trẻ thơ vẫn lảnh lót nhưng khó mà lấp đầy được “khoảng trống” của người cha, người mẹ mất đi đứa con do vụ tai nạn đuối nước thương tâm tại Bến đò Yên Quang vào ngày này 4 năm trước - ngày 02/06/2021. Hương khói nghi ngút trên bàn thờ nhỏ của đứa trẻ kéo tôi đến gần hơn với câu chuyện!</span></span>
 </p>
@@ -114,7 +114,7 @@ export const dataPage = [
   {
     title: "Chương 2",
     short_description: "Những con số biết nói",
-    image: "/images/COVER CHƯƠNG 2.png",
+    image: "/images/COVER CHƯƠNG 2.png",
     content: `<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="-wTypZybq2E9">
     <picture>
         <source srcset="https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/189.webp 189w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/378.webp 378w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/567.webp 567w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/756.webp 756w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/945.webp 945w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1134.webp 1134w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1323.webp 1323w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1512.webp 1512w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1701.webp 1701w,https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1890.webp 1890w" type="image/webp" sizes="(max-width: 1890px) 100vw, 1890px"><img src="https://ckbox.cloud/bafa8eec1cca5b853055/assets/-wTypZybq2E9/images/1890.png" width="1890" height="755">
@@ -194,7 +194,7 @@ export const dataPage = [
   {
     title: "Chương 3",
     short_description: "Nỗ lực phòng chống trên toàn tỉnh",
-    image: "/images/CHƯƠNG 3.png",
+    image: "/images/CHƯƠNG 3.png",
     content: `<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="8Omx1amtuhsD">
     <picture>
         <source srcset="https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/189.webp 189w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/378.webp 378w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/567.webp 567w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/756.webp 756w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/945.webp 945w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/1134.webp 1134w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/1323.webp 1323w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/1512.webp 1512w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/1701.webp 1701w,https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/1887.webp 1887w" type="image/webp" sizes="(max-width: 1887px) 100vw, 1887px"><img src="https://ckbox.cloud/469a306a1143d17d61ca/assets/8Omx1amtuhsD/images/1887.png" width="1887" height="569">
@@ -275,7 +275,7 @@ export const dataPage = [
   {
     title: "Chương 4",
     short_description: "Vì 1 mùa hè trọn vẹn cho em",
-    image: "/images/CHƯƠNG 4.png",
+    image: "/images/CHƯƠNG 4.png",
     content: `<p class="max-w-710">
     <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Hiện nay, đuối nước ở trẻ em vẫn đang là vấn đề nhức nhối trong xã hội, đặc biệt đối với trẻ em các vùng nông thôn. Hàng năm, có không ít những câu chuyện thương tâm về tai nạn sông hồ đã xảy ra, gây nên biết bao nỗi đau khôn nguôi cho gia đình và xã hội. Những con số biết nói ấy là hồi chuông cảnh tỉnh với không chỉ các bậc phụ huynh mà còn với những bên có trách nhiệm liên quan. Vì vậy, chúng ta cần phải có những giải pháp kịp thời hạn chế tình trạng đuối nước ở trẻ nhằm giảm thiểu tỷ lệ tử vong do nguyên nhân này gây ra.</span></span>
 </p>
