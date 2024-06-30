@@ -26,27 +26,27 @@ export default defineNuxtConfig({
           href: "https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css",
         },
         {
-          rel: "preload",
+          rel: "prefetch",
           as: "image",
           href: "/images/LỜI MỞ ĐẦU.png",
         },
         {
-          rel: "preload",
+          rel: "prefetch",
           as: "image",
           href: "/images/COVER CHƯƠNG 1.png",
         },
         {
-          rel: "preload",
+          rel: "prefetch",
           as: "image",
           href: "/images/COVER CHƯƠNG 2.png",
         },
         {
-          rel: "preload",
+          rel: "prefetch",
           as: "image",
           href: "/images/CHƯƠNG 3.png",
         },
         {
-          rel: "preload",
+          rel: "prefetch",
           as: "image",
           href: "/images/CHƯƠNG 4.png",
         },
