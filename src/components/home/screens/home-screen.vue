@@ -1,5 +1,10 @@
 <template>
   <div>
+    <img src="/images/LỜI MỞ ĐẦU.png" loading="lazy" hidden alt="banner" />
+    <img src="/images/COVER CHƯƠNG 1.png" loading="lazy" hidden alt="banner" />
+    <img src="/images/COVER CHƯƠNG 2.png" loading="lazy" hidden alt="banner" />
+    <img src="/images/CHƯƠNG 3.png" loading="lazy" hidden alt="banner" />
+    <img src="/images/CHƯƠNG 4.png" loading="lazy" hidden alt="banner" />
     <div class="container mx-auto">
       <p class="text-base text-slate-500 lg:hidden pb-5 pt-1">
         {{ moment().format("DD/MM/YYYY HH:mm") }}
