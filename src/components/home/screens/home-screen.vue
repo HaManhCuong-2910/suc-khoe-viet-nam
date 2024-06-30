@@ -8,8 +8,54 @@
     <img :src="data?.image" alt="banner" />
     <div
       class="lg:container mx-auto container-content"
-      :class="data?.content && 'mt-4'"
+      :class="data?.content && 'mt-10'"
       v-html="data?.content"
+    ></div>
+    <div v-if="data?.listImage" class="mt-4">
+      <light-gallery-component
+        :key="page"
+        :id="'gallery1'"
+        :note="
+          page === 5
+            ? 'Một cuộc thi bơi được triển khai tại địa bàn Thành phố Vinh, Nghệ An. Nguồn ảnh: NVCC'
+            : ''
+        "
+        :list-image="data.listImage"
+      />
+    </div>
+
+    <div
+      class="lg:container mx-auto container-content mt-4"
+      v-if="data?.content2"
+      v-html="data?.content2"
+    ></div>
+
+    <div v-if="data?.listImage2" class="mt-4">
+      <light-gallery-component
+        :key="page"
+        :id="'gallery2'"
+        :list-image="data.listImage2"
+      />
+    </div>
+
+    <div
+      class="lg:container mx-auto container-content mt-4"
+      v-if="data?.content3"
+      v-html="data?.content3"
+    ></div>
+
+    <div v-if="data?.listImage3" class="mt-4">
+      <light-gallery-component
+        :key="page"
+        :id="'gallery3'"
+        :list-image="data.listImage3"
+      />
+    </div>
+
+    <div
+      class="lg:container mx-auto container-content mt-4"
+      v-if="data?.content4"
+      v-html="data?.content4"
     ></div>
   </div>
 </template>
@@ -20,11 +66,32 @@ import { dataPage } from "../data/home.datasource";
 import { useHomeStore } from "../stores/home.store";
 
 const homeStore = useHomeStore();
+const audio = ref<HTMLAudioElement | null>(null);
 const { page } = storeToRefs(homeStore);
 
 const data = computed(() => {
   return dataPage.find((item, index) => page.value === index + 1);
 });
+
+const onPlayAudio = (srcAudio: string) => {
+  audio.value = new Audio(srcAudio);
+  setTimeout(() => {
+    audio.value?.play();
+  }, 1000);
+};
+
+watch(
+  () => page.value,
+  (newValue, oldValue) => {
+    if (data.value?.audio) {
+      onPlayAudio(data.value?.audio);
+    } else {
+      audio.value?.pause();
+      audio.value?.remove();
+      audio.value = null;
+    }
+  }
+);
 </script>
 
 <style scoped lang="scss">

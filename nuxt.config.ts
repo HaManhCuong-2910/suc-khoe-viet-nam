@@ -21,10 +21,20 @@ export default defineNuxtConfig({
           rel: "stylesheet",
           href: "https://fonts.cdnfonts.com/css/arial-2?styles=98401",
         },
-        // {
-        //   rel: "stylesheet",
-        //   href: "https://fonts.cdnfonts.com/css/merriweather",
-        // },
+        {
+          rel: "stylesheet",
+          href: "https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css",
+        },
+      ],
+      script: [
+        {
+          src: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js",
+          tagPosition: "head",
+        },
+        {
+          src: "https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js",
+          tagPosition: "bodyClose",
+        },
       ],
     },
   },

@@ -28,7 +28,7 @@
 
       <div>
         <div
-          class="next cursor-pointer flex space-x-2 items-center"
+          class="next cursor-pointer flex space-x-2 items-center justify-end"
           v-if="page < dataPage.length"
           @click="homeStore.onChangePage(page + 1)"
         >

@@ -5,6 +5,7 @@
   </main>
 
   <footer-default-layout />
+  <pagination-component />
 </template>
 
 <script setup lang="ts"></script>
