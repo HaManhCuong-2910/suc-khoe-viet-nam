@@ -1,10 +1,5 @@
 <template>
   <div>
-    <img src="/images/LỜI MỞ ĐẦU.png" loading="lazy" hidden alt="banner" />
-    <img src="/images/COVER CHƯƠNG 1.png" loading="lazy" hidden alt="banner" />
-    <img src="/images/COVER CHƯƠNG 2.png" loading="lazy" hidden alt="banner" />
-    <img src="/images/CHƯƠNG 3.png" loading="lazy" hidden alt="banner" />
-    <img src="/images/CHƯƠNG 4.png" loading="lazy" hidden alt="banner" />
     <div class="container mx-auto">
       <p class="text-base text-slate-500 lg:hidden pb-5 pt-1">
         {{ moment().format("DD/MM/YYYY HH:mm") }}
@@ -12,8 +7,16 @@
     </div>
     <img :src="data?.image" alt="banner" />
     <div
+      class="lg:container mx-auto container-content mt-6"
+      v-if="data?.audioFirst"
+    >
+      <div class="max-w-710">
+        <audio controls :src="data.audioFirst"></audio>
+      </div>
+    </div>
+    <div
       class="lg:container mx-auto container-content"
-      :class="data?.content && 'mt-10'"
+      :class="data?.content && 'mt-4'"
       v-html="data?.content"
     ></div>
     <div v-if="data?.listImage" class="mt-4">
@@ -102,6 +105,11 @@ watch(
 <style scoped lang="scss">
 @import "@/assets/scss/responsive.scss";
 :deep(.container-content) {
+  .max-w-810 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .max-w-710 {
     max-width: 710px;
     margin-left: auto;
@@ -109,6 +117,7 @@ watch(
   }
   ul {
     li {
+      text-align: justify;
       span {
         font-size: 20px;
         letter-spacing: 0.01em;
@@ -124,6 +133,7 @@ watch(
     }
   }
   p {
+    text-align: justify;
     margin-bottom: 1rem;
     span {
       font-size: 20px;
@@ -161,6 +171,9 @@ watch(
 
 @include mediaMobileTo640 {
   :deep(.container-content) {
+    .max-w-810 {
+      width: 100%;
+    }
     .max-w-710 {
       max-width: 590px;
       padding-left: 15px;
