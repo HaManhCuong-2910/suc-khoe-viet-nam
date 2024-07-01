@@ -207,7 +207,7 @@ export const dataPage = [
     content: `
 <div class="container-content">
     <div class="mt-4 max-w-810 mb-6">
-    <iframe class="w-full" height="400" src="https://www.youtube.com/embed/7trUNbCsvV8?si=laY85dk0ynMOS-zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="w-full" height="400" src="https://www.youtube.com/embed/iJpjaNlPnNo?si=NpQttGgj0wFiZhKl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="kZJLSb2V69cn">
@@ -357,7 +357,7 @@ export const dataPage = [
 </p>
 <div class="container-content">
     <div class="mt-4 max-w-810 mb-6">
-    <iframe class="w-full" height="400" src="https://www.youtube.com/embed/m01D5rNOEpE?si=PY1XNJ_MWOuquRav" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="w-full" height="400" src="https://www.youtube.com/embed/lyTmH7aUjKA?si=CLn-13uR7iIqjbNF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>`,
   },
