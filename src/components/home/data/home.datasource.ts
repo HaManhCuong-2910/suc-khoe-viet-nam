@@ -22,7 +22,7 @@ export const dataPage = [
   },
   {
     title: "Chương 1",
-    short_description: "Nỗi đau còn mãi",
+    short_description: "Những nỗi đau còn mãi",
     image: "/images/COVER CHƯƠNG 1.png",
     audioFirst: "/audio/chuong-1.mp3",
     content: `<p class="max-w-710">
