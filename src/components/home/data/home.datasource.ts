@@ -33,7 +33,7 @@ export const dataPage = [
     </i></p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="OQfv4YyAfrOn">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/1890.webp 1890w" type="image/webp" sizes="(max-width: 1890px) 100vw, 1890px"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OQfv4YyAfrOn/images/1890.png" width="1890" height="588">
+        <img src="/images/chuong-1/cau-hook-chuong1.png" width="1890" height="588">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -41,7 +41,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="EKUe9SL9R392">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/205.webp 205w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/410.webp 410w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/615.webp 615w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/820.webp 820w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/1025.webp 1025w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/1230.webp 1230w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/1435.webp 1435w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/1640.webp 1640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/1845.webp 1845w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/2048.webp 2048w" sizes="(max-width: 2048px) 100vw, 2048px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/EKUe9SL9R392/images/2048.png">
+        <img src="/images/chuong-1/quotes-chuong-1.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -52,7 +52,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="0J2QBNFKwt6r">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/410.webp 410w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/820.webp 820w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/1230.webp 1230w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/1640.webp 1640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/2050.webp 2050w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/2460.webp 2460w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/2870.webp 2870w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/3280.webp 3280w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/3690.webp 3690w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/4096.webp 4096w" type="image/webp" sizes="(max-width: 4096px) 100vw, 4096px"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0J2QBNFKwt6r/images/4096.JPG" width="4096" height="2731">
+        <img src="/images/chuong-1/anh-2-chuong-1.jpg" width="4096" height="2731">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11.5pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Chị Thi vuốt ve tấm ảnh thẻ học sinh của con</span></i></span><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;" span=""></span></i></span>
@@ -66,7 +66,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="lHlPr_jigMoG">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/1890.webp 1890w" sizes="(max-width: 1890px) 100vw, 1890px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lHlPr_jigMoG/images/1890.png" width="1890" height="672">
+        <img src="/images/chuong-1/cau-hook-2-chuong-1.png" width="1890" height="672">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -77,7 +77,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="mHyaXbpfxyv7">
    <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/519.webp 519w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/1038.webp 1038w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/1557.webp 1557w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/2076.webp 2076w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/2595.webp 2595w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/3114.webp 3114w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/3633.webp 3633w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/4152.webp 4152w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/4671.webp 4671w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/5184.webp 5184w" sizes="(max-width: 5184px) 100vw, 5184px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/mHyaXbpfxyv7/images/5184.JPG">
+        <img src="/images/chuong-1/IMG_3251.jpg">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Bến đò Yên Quang - nơi xảy ra trường hợp đuối nước của bé N.A</span></i></span>
@@ -86,7 +86,7 @@ export const dataPage = [
 <p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;text-align:justify;" dir="ltr"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Sự ra đi của bé N.A. quả thật là một mất mát quá lớn với gia đình chị Thi. Hai vợ chồng chị vẫn chưa thể tin được đứa con gái nhỏ của mình chỉ vừa mới đây thôi, cả gia đình còn quây quần bên nhau ăn bữa cơm ấm cúng, mà giờ đây lại kẻ âm người dương cách biệt. Theo lời chị Thi chia sẻ, tôi mường tượng được N.A. là một đứa trẻ ngoan ngoãn, nhỏ nhắn, yêu thương cha mẹ, và biết quan tâm tới mọi người xung quanh lắm. Chính vì đứa con gái đầu đáng yêu, biết vâng lời như thế nên bậc làm cha làm mẹ khó mà ổn định được tâm trạng sau sự ra đi của con.&nbsp;</span></span></p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="x4VuX1d-uHRs">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/1885.webp 1885w" sizes="(max-width: 1885px) 100vw, 1885px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/x4VuX1d-uHRs/images/1885.png" width="1885" height="651">
+        <img src="/images/chuong-1/cau-hook-3-chuong-1.png" width="1885" height="651">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -97,7 +97,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="-Juge42aaqf1">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/205.webp 205w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/410.webp 410w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/615.webp 615w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/820.webp 820w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/1025.webp 1025w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/1230.webp 1230w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/1435.webp 1435w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/1640.webp 1640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/1845.webp 1845w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/2048.webp 2048w" sizes="(max-width: 2048px) 100vw, 2048px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/-Juge42aaqf1/images/2048.png" width="2048" height="1450">
+        <img src="/images/chuong-1/anh-4-quotes-2-chuong-1.png" width="2048" height="1450">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -105,7 +105,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="UQEursjQWZ_h">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/548.webp 548w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/1096.webp 1096w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/1644.webp 1644w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/2192.webp 2192w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/2740.webp 2740w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/3288.webp 3288w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/3836.webp 3836w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/4384.webp 4384w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/4932.webp 4932w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/5472.webp 5472w" sizes="(max-width: 5472px) 100vw, 5472px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/UQEursjQWZ_h/images/5472.JPG">
+        <img src="/images/chuong-1/IMG_9166.jpg">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Biển cảnh báo đã được cắm tại bến đò Yên Quang sau khi vụ việc thương tâm xảy ra</span></i></span>
@@ -123,13 +123,13 @@ export const dataPage = [
     audioFirst: "/audio/chuong-2.mp3",
     content: `<figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="0nAWHXsrwIRG">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/188.webp 188w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/376.webp 376w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/564.webp 564w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/752.webp 752w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/940.webp 940w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/1128.webp 1128w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/1316.webp 1316w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/1504.webp 1504w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/1692.webp 1692w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/1880.webp 1880w" sizes="(max-width: 1880px) 100vw, 1880px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/0nAWHXsrwIRG/images/1880.png" width="1880" height="573">
+        <img src="/images/chuong-2/cau-hook-1-chuong-2.png" width="1880" height="573">
     </picture>
 </figure>
 <p class="max-w-710"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:13pt;"><span style="font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Nghệ An là tỉnh có diện tích lớn nhất cả nước với 16.486,49 km2, cùng bờ biển dài 82 km và nhiều kênh, ao, hồ trên các địa bàn dân cư. Mạng lưới sông ngòi tỉnh dày đặc cùng rất nhiều khe suối lớn đan xen giữa các dãy núi, 80% địa hình tự nhiên của tỉnh có độ dốc lớn hơn 8 độ, làm cho hệ thống sông ngòi nội tỉnh mang đặc điểm ngắn và dốc. Vì vậy, tình trạng lũ lụt thường xảy ra ở đây, nhất là trong thời gian học sinh nghỉ hè từ tháng 6 đến tháng 8, dẫn đến nguy cơ xảy ra đuối nước rất cao đối với trẻ em, đặc biệt là trẻ em thuộc khu vực nông thôn và vùng sâu, vùng xa.</span></span></p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="8TpTNMBit4XH">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/128.webp 128w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/256.webp 256w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/384.webp 384w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/512.webp 512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/640.webp 640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/768.webp 768w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/896.webp 896w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/1024.webp 1024w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/1152.webp 1152w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/1280.webp 1280w" sizes="(max-width: 1280px) 100vw, 1280px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/8TpTNMBit4XH/images/1280.jpeg" width="1280" height="960">
+        <img src="/images/chuong-2/anh-1-song-suoi.jpg" width="1280" height="960">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Khe suối tại xã Nhôn Mai, huyện Tương Dương, tỉnh Nghệ An. Nguồn ảnh: NVCC</span></i></span>
@@ -145,7 +145,7 @@ export const dataPage = [
 <p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">&nbsp;</p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="m2W3pnH8cZ4V">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/176.webp 176w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/352.webp 352w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/528.webp 528w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/704.webp 704w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/880.webp 880w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/1056.webp 1056w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/1232.webp 1232w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/1408.webp 1408w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/1584.webp 1584w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/1760.webp 1760w" sizes="(max-width: 1760px) 100vw, 1760px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/m2W3pnH8cZ4V/images/1760.gif">
+        <img src="/images/chuong-2/infographic-chuong-2.gif">
     </picture>
 </figure>
 <p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">
@@ -154,7 +154,7 @@ export const dataPage = [
 <p class="max-w-710" style="line-height:1.38;margin-bottom:0pt;margin-top:0pt;" dir="ltr">&nbsp;</p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="OKfBcAtN-yMT">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/1885.webp 1885w" sizes="(max-width: 1885px) 100vw, 1885px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/OKfBcAtN-yMT/images/1885.png">
+        <img src="/images/chuong-2/cau-hook-chuong-2.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -166,7 +166,7 @@ export const dataPage = [
 <div class="max-w-710">
     <figure class="image image_resized image-style-side" style="width:60.5%;" data-ckbox-resource-id="_268uatCWAad">
         <picture>
-            <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/96.webp 96w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/192.webp 192w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/288.webp 288w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/384.webp 384w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/480.webp 480w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/576.webp 576w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/672.webp 672w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/768.webp 768w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/864.webp 864w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/951.webp 951w" sizes="(max-width: 951px) 100vw, 951px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/_268uatCWAad/images/951.png">
+            <img src="/images/chuong-2/anh-2-quotes-1-chuong-2.png">
         </picture>
     </figure>
     <p>
@@ -178,7 +178,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="DKLX2us_pVw1">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/128.webp 128w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/256.webp 256w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/384.webp 384w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/512.webp 512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/640.webp 640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/768.webp 768w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/896.webp 896w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/1024.webp 1024w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/1152.webp 1152w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/1280.webp 1280w" sizes="(max-width: 1280px) 100vw, 1280px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DKLX2us_pVw1/images/1280.jpeg">
+        <img src="/images/chuong-2/anh-3-thay-co-va-hoc-sinh.jpg">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Buổi tuyên truyền về phòng, chống đuối nước tại một trường tiểu học tỉnh Nghệ An. Nguồn ảnh: NVCC</span></i></span>
@@ -192,7 +192,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="Pct43nmk9Z2S">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/128.webp 128w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/256.webp 256w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/384.webp 384w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/512.webp 512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/640.webp 640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/768.webp 768w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/896.webp 896w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/1024.webp 1024w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/1152.webp 1152w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/1280.webp 1280w" sizes="(max-width: 1280px) 100vw, 1280px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Pct43nmk9Z2S/images/1280.jpeg">
+        <img src="/images/chuong-2/anh-4-be-boi.jpg">
     </picture>
     <figcaption><strong>
             <meta charset="utf-8">
@@ -215,7 +215,7 @@ export const dataPage = [
 </div>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="IQajtXltnkzf">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/1890.webp 1890w" sizes="(max-width: 1890px) 100vw, 1890px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/IQajtXltnkzf/images/1890.png">
+        <img src="/images/chuong-3/cau-hook-1-chuong-3.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -241,7 +241,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="BGLxa303NcQ1">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/1890.webp 1890w" sizes="(max-width: 1890px) 100vw, 1890px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/BGLxa303NcQ1/images/1890.png">
+        <img src="/images/chuong-3/cau-hook-2-chuong-3.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -283,7 +283,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="DCvq-IyL1prg">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/205.webp 205w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/410.webp 410w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/615.webp 615w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/820.webp 820w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/1025.webp 1025w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/1230.webp 1230w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/1435.webp 1435w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/1640.webp 1640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/1845.webp 1845w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/2048.webp 2048w" sizes="(max-width: 2048px) 100vw, 2048px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/DCvq-IyL1prg/images/2048.png">
+        <img src="/images/chuong-3/quotes-chuong-3.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -291,7 +291,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized max-w-710" data-ckbox-resource-id="QscCoibYjxzK">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/80.webp 80w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/160.webp 160w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/240.webp 240w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/320.webp 320w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/400.webp 400w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/480.webp 480w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/560.webp 560w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/640.webp 640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/642.webp 642w" sizes="(max-width: 642px) 100vw, 642px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/QscCoibYjxzK/images/642.gif" width="642" height="1080">
+        <img src="/images/chuong-3/infographic-chuong-3.gif" width="642" height="1080">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Số lượng và vị trí các bể bơi tại địa bàn huyện Diễn Châu tính đến hết tháng 5/2024</span></i></span>
@@ -309,7 +309,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="U7e9Z6PsvAvc">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/1890.webp 1890w" sizes="(max-width: 1890px) 100vw, 1890px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/U7e9Z6PsvAvc/images/1890.png">
+        <img src="/images/chuong-4/cau-hook-1-chuong-4.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -328,7 +328,7 @@ export const dataPage = [
 </ul>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="lEO_hSSlR2XI">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/101.webp 101w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/202.webp 202w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/303.webp 303w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/404.webp 404w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/505.webp 505w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/606.webp 606w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/707.webp 707w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/808.webp 808w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/909.webp 909w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/1008.webp 1008w" sizes="(max-width: 1008px) 100vw, 1008px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/lEO_hSSlR2XI/images/1008.jpeg" width="1008" height="672">
+        <img src="/images/chuong-4/hoat-dong-ngoai-khoa.jpg" width="1008" height="672">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Liên đoàn Trường PTDTBT THCS Yên Thắng tuyên truyền phòng chống đuối nước năm học 2021 - 2022. Nguồn ảnh: NVCC</span></i></span>
@@ -351,7 +351,7 @@ export const dataPage = [
 </p>
 <figure class="image image_resized" style="width:84.04%;" data-ckbox-resource-id="Qr8nlJEgdOul">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/189.webp 189w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/378.webp 378w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/567.webp 567w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/756.webp 756w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/945.webp 945w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/1134.webp 1134w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/1323.webp 1323w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/1512.webp 1512w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/1701.webp 1701w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/1882.webp 1882w" sizes="(max-width: 1882px) 100vw, 1882px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/Qr8nlJEgdOul/images/1882.png">
+        <img src="/images/chuong-4/cau-hook-2-chuong-4.png">
     </picture>
 </figure>
 <p class="max-w-710">
@@ -384,7 +384,7 @@ export const dataPage = [
 </ul>
 <figure class="image image_resized max-w-710" data-ckbox-resource-id="WrmFe_RBvh7O">
     <picture>
-        <source srcset="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/80.webp 80w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/160.webp 160w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/240.webp 240w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/320.webp 320w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/400.webp 400w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/480.webp 480w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/560.webp 560w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/640.webp 640w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/720.webp 720w,https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/800.webp 800w" sizes="(max-width: 800px) 100vw, 800px" type="image/webp"><img src="https://ckbox.cloud/5fda3301764ff00e6b6e/assets/WrmFe_RBvh7O/images/800.png" width="800" height="1521">
+        <img src="/images/chuong-4/infographic-chuong-4.png" width="800" height="1521">
     </picture>
     <figcaption>
         <meta charset="utf-8"><span style="background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;"><i><span style="font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Những cách sơ cứu khi trẻ gặp tình trạng đuối nước</span></i></span>
